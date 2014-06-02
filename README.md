@@ -37,3 +37,9 @@ Self-Implemented: SNMP Get, GetNextMib and GetBulk Requests.
 Errors/Bugs:
 ------------
 Since the project is a prototype, it does not handle all the possible error cases.
+
+
+References:
+-----------
+  1. http://www.java2s.com/Code/CSharp/Network/SimpleSNMP.htm
+  2. http://www.codeproject.com/Articles/38553/TaskScheduler
