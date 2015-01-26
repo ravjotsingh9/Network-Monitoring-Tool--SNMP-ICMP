@@ -16,6 +16,7 @@ This project includes six tabs:
 Prerequisite:
 -------------
 To run this solution, a reference to DataVisualisation dll is required.
+Note: If you want to extract snmp values for your local system, ensure that snmp services are running on your system.
 
 
 IDE Used:	
